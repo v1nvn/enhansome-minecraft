@@ -166,7 +166,7 @@
             "last_commit": "2026-01-24T20:25:28Z",
             "owner": "AppliedEnergistics",
             "repo": "Applied-Energistics-2",
-            "stars": 1670
+            "stars": 1672
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-02-05T16:09:40Z",
             "owner": "MylesIsCool",
             "repo": "ViaVersion",
-            "stars": 1508
+            "stars": 1509
           }
         },
         {
@@ -251,10 +251,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-01-06T05:50:54Z",
+            "last_commit": "2026-02-07T13:41:13Z",
             "owner": "EngineHub",
             "repo": "WorldGuard",
-            "stars": 904
+            "stars": 905
           }
         },
         {
@@ -321,10 +321,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-02-04T12:57:24Z",
+            "last_commit": "2026-02-07T23:15:10Z",
             "owner": "itzg",
             "repo": "docker-minecraft-server",
-            "stars": 13104
+            "stars": 13106
           }
         },
         {
@@ -400,7 +400,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-02-05T11:11:32Z",
+            "last_commit": "2026-02-07T18:39:27Z",
             "owner": "minekube",
             "repo": "gate",
             "stars": 957
@@ -511,7 +511,7 @@
             "last_commit": "2026-02-04T11:59:58Z",
             "owner": "Amulet-Team",
             "repo": "Amulet-Map-Editor",
-            "stars": 2153
+            "stars": 2154
           }
         },
         {
@@ -558,10 +558,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-02-07T12:43:45Z",
+            "last_commit": "2026-02-07T20:07:27Z",
             "owner": "huanghongxun",
             "repo": "HMCL",
-            "stars": 8807
+            "stars": 8812
           }
         },
         {
@@ -574,7 +574,7 @@
             "last_commit": "2026-02-05T15:02:16Z",
             "owner": "Voxelum",
             "repo": "x-minecraft-launcher",
-            "stars": 1340
+            "stars": 1339
           }
         },
         {
@@ -652,10 +652,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T13:19:22.294Z",
+    "last_updated": "2026-02-08T04:31:03.775Z",
     "original_repository": "bs-community/awesome-minecraft",
     "source_repository": "v1nvn/enhansome-minecraft",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome Minecraft with stars"
   }
 }
