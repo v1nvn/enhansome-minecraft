@@ -1,4 +1,4 @@
-# Awesome Minecraft [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 445,096 | 🐛 77 | 📅 2026-03-09 with stars
+# Awesome Minecraft [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 445,302 | 🐛 80 | 📅 2026-03-09 with stars
 
 <img src="screenshot.png" width="1920" />
 
@@ -72,7 +72,7 @@
 
 ## Mod Loaders
 
-* [Minecraft Forge](https://github.com/MinecraftForge/MinecraftForge) ⭐ 7,548 | 🐛 186 | 🌐 Java | 📅 2026-03-05 - Modifications to the Minecraft base files to assist in compatibility between mods.
+* [Minecraft Forge](https://github.com/MinecraftForge/MinecraftForge) ⭐ 7,550 | 🐛 186 | 🌐 Java | 📅 2026-03-05 - Modifications to the Minecraft base files to assist in compatibility between mods.
 * [Meddle](https://github.com/FyberOptic/Meddle) ⭐ 31 | 🐛 1 | 🌐 Java | 📅 2016-05-30 - Everything related to modding 1.9/1.10 snapshots in one place.
 * [RopeMC](https://github.com/RopeMC/RopeMC) ⚠️ Archived - A lightweight, reflection based mod loader which aims to be user friendly and later version independent.
 * [Quilt](https://quiltmc.org/) - A powerful fork of the Fabric project.
@@ -86,12 +86,12 @@
 
 * [Optifine](https://www.optifine.net/home) - OptiFine is a Minecraft optimization mod.
 * [BetterFps](https://www.curseforge.com/minecraft/mc-mods/betterfps) - BetterFps is a Minecraft mod that add a few performance improvements.
-* [Sodium (for Fabric)](https://github.com/CaffeineMC/sodium-fabric) ⭐ 5,496 | 🐛 178 | 🌐 Java | 📅 2026-03-10 - A Fabric mod designed to improve frame rates and reduce micro-stutter.
+* [Sodium (for Fabric)](https://github.com/CaffeineMC/sodium-fabric) ⭐ 5,499 | 🐛 178 | 🌐 Java | 📅 2026-03-10 - A Fabric mod designed to improve frame rates and reduce micro-stutter.
 * [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) - A Fabric mod to allow Optifine to run using Fabric loader.
 
 ### Skins And Capes
 
-* [Custom Skin Loader](https://github.com/xfl03/MCCustomSkinLoader) ⭐ 578 | 🐛 39 | 🌐 Java | 📅 2026-03-09 - Custom Skin Loader for Minecraft.
+* [Custom Skin Loader](https://github.com/xfl03/MCCustomSkinLoader) ⭐ 579 | 🐛 39 | 🌐 Java | 📅 2026-03-09 - Custom Skin Loader for Minecraft.
 * [Universal Skin Mod](https://github.com/RecursiveG/UniSkinMod) ⚠️ Archived - A Minecraft Forge Mod allows players load custom skin & cape textures.
 
 ### Maps
@@ -175,7 +175,7 @@
 
 ## Server Plugins
 
-* [ViaVersion](https://github.com/MylesIsCool/ViaVersion) ⭐ 1,520 | 🐛 76 | 🌐 Java | 📅 2026-03-12 - Allows the connection of newer clients to older server versions for Minecraft servers.
+* [ViaVersion](https://github.com/MylesIsCool/ViaVersion) ⭐ 1,521 | 🐛 73 | 🌐 Java | 📅 2026-03-13 - Allows the connection of newer clients to older server versions for Minecraft servers.
 * [WorldGuard](https://github.com/EngineHub/WorldGuard) ⭐ 912 | 🐛 149 | 🌐 Java | 📅 2026-02-07 - WorldGuard lets you and players guard areas of land against griefers and undesirables, as well as tweak and disable various gameplay features of Minecraft.
 * [CoreProtect](https://github.com/PlayPro/CoreProtect) ⭐ 906 | 🐛 174 | 🌐 Java | 📅 2026-02-27 - Log everything your players do. Literally 1984.
 * [CraftBook](https://github.com/EngineHub/CraftBook) ⭐ 320 | 🐛 76 | 🌐 Java | 📅 2026-02-27 - CraftBook lets you create magically extending bridges, compact Redstone circuits, complex Minecart mechanics, and much more — all without a client mod and fully customizable by the server.
@@ -205,17 +205,17 @@
 
 ## Web Applications
 
-* [Blessing Skin Server](https://github.com/bs-community/blessing-skin-server) ⭐ 994 | 🐛 25 | 🌐 PHP | 📅 2026-03-09 - A web application brings your custom skins back in offline Minecraft servers.
+* [Blessing Skin Server](https://github.com/bs-community/blessing-skin-server) ⭐ 995 | 🐛 25 | 🌐 PHP | 📅 2026-03-09 - A web application brings your custom skins back in offline Minecraft servers.
 * [WorldEdit Golf](https://worldedit.golf/) - Challenge others in a competition to use WorldEdit in as few commands as possible.
 
 ## Softwares
 
 ### Servers
 
-* [Docker-Minecraft](https://github.com/itzg/docker-minecraft-server) ⭐ 13,319 | 🐛 155 | 🌐 Shell | 📅 2026-03-13 - A self-hosted Minecraft server using Docker containers.
-* [Gate](https://github.com/minekube/gate) ⭐ 981 | 🐛 23 | 🌐 Go | 📅 2026-03-10 - A high performance & paralleled Minecraft proxy written in Go.
-* [Legendary-Java-Minecraft-Geyser-Floodgate](https://github.com/TheRemote/Legendary-Java-Minecraft-Geyser-Floodgate) ⭐ 213 | 🐛 0 | 🌐 Shell | 📅 2026-01-25 - PaperMC server with out of the box Geyser and Floodgate support using docker.
-* [minecraft-docker](https://github.com/tywil04/minecraft-docker) ⚠️ Archived - Fork of [Legendary-Java-Minecraft-Geyser-Floodgate](https://github.com/TheRemote/Legendary-Java-Minecraft-Geyser-Floodgate) ⭐ 213 | 🐛 0 | 🌐 Shell | 📅 2026-01-25 that embeds a discord bot for easy starting and stopping of the server.
+* [Docker-Minecraft](https://github.com/itzg/docker-minecraft-server) ⭐ 13,323 | 🐛 153 | 🌐 Shell | 📅 2026-03-13 - A self-hosted Minecraft server using Docker containers.
+* [Gate](https://github.com/minekube/gate) ⭐ 981 | 🐛 23 | 🌐 Go | 📅 2026-03-13 - A high performance & paralleled Minecraft proxy written in Go.
+* [Legendary-Java-Minecraft-Geyser-Floodgate](https://github.com/TheRemote/Legendary-Java-Minecraft-Geyser-Floodgate) ⭐ 214 | 🐛 0 | 🌐 Shell | 📅 2026-01-25 - PaperMC server with out of the box Geyser and Floodgate support using docker.
+* [minecraft-docker](https://github.com/tywil04/minecraft-docker) ⚠️ Archived - Fork of [Legendary-Java-Minecraft-Geyser-Floodgate](https://github.com/TheRemote/Legendary-Java-Minecraft-Geyser-Floodgate) ⭐ 214 | 🐛 0 | 🌐 Shell | 📅 2026-01-25 that embeds a discord bot for easy starting and stopping of the server.
 * [Cauldron](https://sourceforge.net/projects/cauldron-unofficial/files/) - Formerly known as MCPC+. The original server implementing the Forge and Bukkit API.
 * [Cloudburst/NukkitX/Nukkit](https://cloudburstmc.org/) - A Bedrock Edition Server providing support for plugins supporting the Nukkit API.
 * [Glowstone](https://glowstone.net/) - Formerly known as Spout and BukkitContrib. Spigot Server alternative written from scratch with performance similar to Paper.
@@ -229,14 +229,14 @@
 
 ### Libraries
 
-* [node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol) ⭐ 1,372 | 🐛 119 | 🌐 JavaScript | 📅 2026-02-13 - A NodeJS library to parse and serialize minecraft packets, plus authentication and encryption.
-* [MCProtocolLib](https://github.com/Steveice10/MCProtocolLib) ⭐ 881 | 🐛 17 | 🌐 Java | 📅 2026-03-13 - A simple library for communicating with a Minecraft client/server, written in Java.
+* [node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol) ⭐ 1,371 | 🐛 119 | 🌐 JavaScript | 📅 2026-02-13 - A NodeJS library to parse and serialize minecraft packets, plus authentication and encryption.
+* [MCProtocolLib](https://github.com/Steveice10/MCProtocolLib) ⭐ 881 | 🐛 17 | 🌐 Java | 📅 2026-03-14 - A simple library for communicating with a Minecraft client/server, written in Java.
 * [CraftLib](https://github.com/zerite/craftlib) ⭐ 100 | 🐛 3 | 🌐 Kotlin | 📅 2022-12-29 - Complete [Kotlin](https://kotlinlang.org) / Java library for wrapping the entire Minecraft codebase, including protocol, NBT, schematics, chat and more.
 * [go-mcproto](https://github.com/BRA1L0R/go-mcproto) ⚠️ Archived - Minecraft server communication protocol implementation written in Go that allows you to program your own bots.
 
 ### Utilities
 
-* [Amidst](https://github.com/toolbox4minecraft/amidst) ⭐ 2,259 | 🐛 268 | 🌐 Java | 📅 2025-12-01 - Display an overview of a Minecraft world, without actually creating it.
+* [Amidst](https://github.com/toolbox4minecraft/amidst) ⭐ 2,260 | 🐛 268 | 🌐 Java | 📅 2025-12-01 - Display an overview of a Minecraft world, without actually creating it.
 * [Amulet](https://github.com/Amulet-Team/Amulet-Map-Editor) ⭐ 2,162 | 🐛 221 | 🌐 Python | 📅 2026-02-27 - Map viewer/editor.
 * [NBTEditor](https://github.com/Howaner/NBTEditor) ⭐ 71 | 🐛 5 | 🌐 C++ | 📅 2024-05-31 - Edit NBT from .dat files.
 * [Minecraft Command Helper](https://github.com/IceLitty/Minecraft-Command-Helper) ⚠️ Archived - A WPF Program about generate Minecraft Command (with NBT data). (Windows Only)
@@ -244,10 +244,10 @@
 
 ### Launchers
 
-* [HMCL](https://github.com/huanghongxun/HMCL) ⭐ 8,949 | 🐛 423 | 🌐 Java | 📅 2026-03-12 - A powered Minecraft launcher that supports a lot of features.
-* [MultiMC](https://github.com/MultiMC/MultiMC5) ⭐ 4,596 | 🐛 322 | 🌐 C++ | 📅 2025-11-14 - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
-* [XMCL](https://github.com/Voxelum/x-minecraft-launcher) ⭐ 1,369 | 🐛 146 | 🌐 TypeScript | 📅 2026-03-11 - X Minecraft Launcher (XMCL) is a modern Minecraft launcher that lets you manage your massive resources like modpacks, resource packs, mods and shader packs.
-* [Polymerium](https://github.com/d3ara1n/Polymerium) ⭐ 75 | 🐛 5 | 🌐 C# | 📅 2026-03-13 - 🐿️ A next-generation Minecraft instance manager that thinks differently about game management.
+* [HMCL](https://github.com/huanghongxun/HMCL) ⭐ 8,952 | 🐛 421 | 🌐 Java | 📅 2026-03-13 - A powered Minecraft launcher that supports a lot of features.
+* [MultiMC](https://github.com/MultiMC/MultiMC5) ⭐ 4,597 | 🐛 322 | 🌐 C++ | 📅 2025-11-14 - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
+* [XMCL](https://github.com/Voxelum/x-minecraft-launcher) ⭐ 1,371 | 🐛 147 | 🌐 TypeScript | 📅 2026-03-11 - X Minecraft Launcher (XMCL) is a modern Minecraft launcher that lets you manage your massive resources like modpacks, resource packs, mods and shader packs.
+* [Polymerium](https://github.com/d3ara1n/Polymerium) ⭐ 76 | 🐛 5 | 🌐 C# | 📅 2026-03-13 - 🐿️ A next-generation Minecraft instance manager that thinks differently about game management.
 * [Prism](https://prismlauncher.org) - A fork of MultiMC, capable of downloading modpacks and other resources directly from CurseForge and FTB.
 
 ## Development
