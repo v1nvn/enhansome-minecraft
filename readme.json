@@ -18,7 +18,7 @@
             "last_commit": "2026-05-04T16:26:40Z",
             "owner": "MinecraftForge",
             "repo": "MinecraftForge",
-            "stars": 7613
+            "stars": 7615
           }
         },
         {
@@ -127,10 +127,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-11T05:45:02Z",
+            "last_commit": "2026-05-11T18:14:56Z",
             "owner": "VazkiiMods",
             "repo": "Botania",
-            "stars": 1432
+            "stars": 1433
           }
         },
         {
@@ -166,7 +166,7 @@
             "last_commit": "2026-05-10T02:44:41Z",
             "owner": "AppliedEnergistics",
             "repo": "Applied-Energistics-2",
-            "stars": 1715
+            "stars": 1717
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-05-09T08:04:42Z",
             "owner": "ViaVersion",
             "repo": "ViaVersion",
-            "stars": 1555
+            "stars": 1556
           }
         },
         {
@@ -287,7 +287,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-07T22:17:39Z",
+            "last_commit": "2026-05-11T21:32:23Z",
             "owner": "PlayPro",
             "repo": "CoreProtect",
             "stars": 927
@@ -321,10 +321,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-05-11T00:21:30Z",
+            "last_commit": "2026-05-11T12:46:16Z",
             "owner": "itzg",
             "repo": "docker-minecraft-server",
-            "stars": 13646
+            "stars": 13656
           }
         },
         {
@@ -403,7 +403,7 @@
             "last_commit": "2026-05-08T22:00:41Z",
             "owner": "minekube",
             "repo": "gate",
-            "stars": 1024
+            "stars": 1025
           }
         }
       ],
@@ -432,10 +432,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-17T13:32:04Z",
+            "last_commit": "2026-05-11T22:43:08Z",
             "owner": "GeyserMC",
             "repo": "MCProtocolLib",
-            "stars": 885
+            "stars": 886
           }
         },
         {
@@ -448,7 +448,7 @@
             "last_commit": "2026-05-04T05:49:18Z",
             "owner": "PrismarineJS",
             "repo": "node-minecraft-protocol",
-            "stars": 1391
+            "stars": 1392
           }
         },
         {
@@ -543,7 +543,7 @@
             "last_commit": "2026-05-06T14:40:13Z",
             "owner": "MultiMC",
             "repo": "Launcher",
-            "stars": 4621
+            "stars": 4623
           }
         },
         {
@@ -561,7 +561,7 @@
             "last_commit": "2026-05-09T13:26:06Z",
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 9219
+            "stars": 9227
           }
         },
         {
@@ -571,10 +571,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-10T15:25:15Z",
+            "last_commit": "2026-05-11T19:03:05Z",
             "owner": "Voxelum",
             "repo": "x-minecraft-launcher",
-            "stars": 1416
+            "stars": 1418
           }
         },
         {
@@ -584,10 +584,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-05-09T05:23:03Z",
+            "last_commit": "2026-05-11T09:31:15Z",
             "owner": "d3ara1n",
             "repo": "Polymerium",
-            "stars": 93
+            "stars": 94
           }
         }
       ],
@@ -652,7 +652,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-11T05:56:34.077Z",
+    "last_updated": "2026-05-12T05:36:33.212Z",
     "original_repository": "bs-community/awesome-minecraft",
     "source_repository": "v1nvn/enhansome-minecraft",
     "source_repository_description": null,
