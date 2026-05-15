@@ -251,10 +251,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-09T04:39:46Z",
+            "last_commit": "2026-05-14T16:12:57Z",
             "owner": "EngineHub",
             "repo": "WorldGuard",
-            "stars": 921
+            "stars": 920
           }
         },
         {
@@ -287,10 +287,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-14T00:23:40Z",
+            "last_commit": "2026-05-14T22:30:48Z",
             "owner": "PlayPro",
             "repo": "CoreProtect",
-            "stars": 929
+            "stars": 930
           }
         }
       ],
@@ -321,10 +321,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-05-13T00:03:25Z",
+            "last_commit": "2026-05-14T23:09:17Z",
             "owner": "itzg",
             "repo": "docker-minecraft-server",
-            "stars": 13688
+            "stars": 13694
           }
         },
         {
@@ -400,10 +400,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-12T17:36:11Z",
+            "last_commit": "2026-05-14T21:51:52Z",
             "owner": "minekube",
             "repo": "gate",
-            "stars": 1026
+            "stars": 1027
           }
         }
       ],
@@ -558,10 +558,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-12T13:43:19Z",
+            "last_commit": "2026-05-14T12:25:36Z",
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 9235
+            "stars": 9233
           }
         },
         {
@@ -571,10 +571,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-13T14:06:24Z",
+            "last_commit": "2026-05-15T05:05:41Z",
             "owner": "Voxelum",
             "repo": "x-minecraft-launcher",
-            "stars": 1420
+            "stars": 1423
           }
         },
         {
@@ -652,7 +652,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-14T05:45:22.056Z",
+    "last_updated": "2026-05-15T05:53:08.916Z",
     "original_repository": "bs-community/awesome-minecraft",
     "source_repository": "v1nvn/enhansome-minecraft",
     "source_repository_description": null,
