@@ -88,7 +88,7 @@
             "last_commit": "2026-03-27T12:39:11Z",
             "owner": "xfl03",
             "repo": "MCCustomSkinLoader",
-            "stars": 593
+            "stars": 594
           }
         },
         {
@@ -166,7 +166,7 @@
             "last_commit": "2026-05-10T02:44:41Z",
             "owner": "AppliedEnergistics",
             "repo": "Applied-Energistics-2",
-            "stars": 1718
+            "stars": 1719
           }
         },
         {
@@ -225,7 +225,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-09T08:04:42Z",
+            "last_commit": "2026-05-15T16:53:55Z",
             "owner": "ViaVersion",
             "repo": "ViaVersion",
             "stars": 1558
@@ -254,7 +254,7 @@
             "last_commit": "2026-05-14T16:12:57Z",
             "owner": "EngineHub",
             "repo": "WorldGuard",
-            "stars": 920
+            "stars": 921
           }
         },
         {
@@ -287,10 +287,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-14T22:30:48Z",
+            "last_commit": "2026-05-15T19:15:03Z",
             "owner": "PlayPro",
             "repo": "CoreProtect",
-            "stars": 930
+            "stars": 929
           }
         }
       ],
@@ -321,10 +321,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-05-14T23:09:17Z",
+            "last_commit": "2026-05-15T12:35:42Z",
             "owner": "itzg",
             "repo": "docker-minecraft-server",
-            "stars": 13694
+            "stars": 13697
           }
         },
         {
@@ -508,7 +508,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-05T08:41:37Z",
+            "last_commit": "2026-05-15T07:44:39Z",
             "owner": "Amulet-Team",
             "repo": "Amulet-Map-Editor",
             "stars": 2179
@@ -543,7 +543,7 @@
             "last_commit": "2026-05-06T14:40:13Z",
             "owner": "MultiMC",
             "repo": "Launcher",
-            "stars": 4625
+            "stars": 4626
           }
         },
         {
@@ -558,10 +558,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-14T12:25:36Z",
+            "last_commit": "2026-05-15T19:00:31Z",
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 9233
+            "stars": 9240
           }
         },
         {
@@ -652,7 +652,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-15T05:53:08.916Z",
+    "last_updated": "2026-05-16T05:24:46.102Z",
     "original_repository": "bs-community/awesome-minecraft",
     "source_repository": "v1nvn/enhansome-minecraft",
     "source_repository_description": null,
